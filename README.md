@@ -20,8 +20,15 @@
 - 📫 How to reach me **rcse1604@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me :- </h3>
+<p?
+### Languages I Work With:
+- **Java** ☕
+- **MySQL** 🛠️
+- **HTML & CSS** 🎨
+- **JavaScript** 💻
+- **ReactJS** (Learning) ⚛️
+</p>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <b>🛠️ Core Java Development</b> 
 
