@@ -51,6 +51,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohanchavan16&show_icons=true&locale=en&layout=compact" alt="Rohanchavan16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanchavan16&show_icons=true&locale=en" alt="rohanchavan16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchavan16&" alt="rohanchavan16" /></p>
